@@ -1,0 +1,69 @@
+
+
+    #container {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        max-width: 800px;
+        margin: 30px auto; 
+        padding: 30px; 
+        background-color: rgba(0, 0, 0, 0.61);
+        border-radius: 20px;
+        position: relative;
+    }
+
+    #button{
+        padding-top: 8px;
+        text-align: center;
+        width: 800px;
+        height: 30px; 
+        background-color: rgb(18, 240, 18); 
+    }
+
+    #logo{
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    .nome{
+        font-size: large;
+    }
+
+    .info{
+        padding-top: 5px;
+        font-size: small;
+    }
+
+    .Gino22 {
+        height: 20px;
+        width: 200px;
+        background-color: rgb(238, 225, 38); 
+        margin-bottom: 5px;
+        border-radius: 3px;
+    }
+
+    .Mike24 {
+        height: 20px;
+        width: 300px;
+        background-color: rgb(43, 190, 30); 
+        margin-bottom: 5px;
+        border-radius: 3px;
+    }
+
+    .Fede154 {
+        height: 20px;
+        width: 80px;
+        background-color: rgb(190, 30, 30); 
+        margin-bottom: 5px;
+        border-radius: 3px;
+    }
+    
+    body {
+        margin: 0;
+        padding: 100px;
+        background-image: url(immagini/background.jpg);
+        background-size: cover; /* Ridimensiona l'immagine per coprire tutto lo sfondo */
+        background-position: center;
+        background-repeat: no-repeat;
+        color: white;
+    }
+
+  
